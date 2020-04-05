@@ -16,3 +16,4 @@ https://nexus.hyperledger.org/content/repositories/releases/org/hyperledger/fabr
 }
 { "server": "45.79.79.37", "server_ipv6": "::", "server_port": 443, "local_address": "127.0.0.1", "local_port": 1080, "password": "9d6cceaa373bf2c8acb22e60b6a58be6", "group": "Charles Xu", "method": "aes-256-cfb", "obfsparam": "" } 
         
+: https://www.paofusub.com/link/31JN92CORGq16M2r
