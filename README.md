@@ -14,4 +14,16 @@ https://nexus.hyperledger.org/content/repositories/releases/org/hyperledger/fabr
   "method": "aes-256-gcm",
   "obfsparam": ""
 }
+            {
+  "server": "172.104.167.155",
+  "server_ipv6": "::",
+  "server_port": 13974,
+  "local_address": "127.0.0.1",
+  "local_port": 1080,
+  "password": "f55.fun-81663516",
+  "group": "Charles Xu",
+  "method": "aes-256-gcm",
+  "obfsparam": ""
+}
+        
         
